@@ -1,2 +1,2 @@
 # html
-make html porject using vscode
+make html project using vscode
